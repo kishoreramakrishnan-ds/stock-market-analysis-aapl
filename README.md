@@ -1,6 +1,7 @@
 Stock Market Analysis of AAPL
 Overview
 This project provides a detailed analysis of Apple Inc.'s (AAPL) historical stock prices. It includes data cleaning, exploratory data analysis (EDA), time series analysis, and the development of a basic trading strategy based on moving average crossovers. The analysis is aimed at understanding price trends, identifying trading signals, and assessing the stock's volatility.
+
 Table of Contents
 1. Introduction
 2. Dataset Description
@@ -11,6 +12,7 @@ Table of Contents
 7. Recommendations
 8. Conclusion
 9. Appendix
+    
 Introduction
 The goal of this project is to perform a comprehensive analysis of AAPL stock prices. By applying various data analysis techniques, the project aims to uncover insights into stock price trends and volatility, while also developing and evaluating a basic trading strategy.
 Dataset Description
